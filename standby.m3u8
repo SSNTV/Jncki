@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1
+https://raw.githubusercontent.com/SSNTV/Jncki/refs/heads/main/standby.mp4
+#EXT-X-ENDLIST
