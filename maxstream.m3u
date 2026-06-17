@@ -1,9 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="0_rnt888zk" tvg-name="Ghana vs Panama" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_rnt888zk/banner_xxxhdpi.webp" group-logo="https://qtv.web.id/igami/wc26.png" group-title="[WorldCup 2026™7]",[LIVE] Ghana vs Panama (Mulai: 18 Juni 2026 • 05:00 WIB)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
-https://tencent-css.byteplaycdn.com/67cd188c9f4477d5a30814700ff12719/6A33D61D/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
